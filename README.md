@@ -35,4 +35,5 @@ Next, I built Bayesian logistic regression models to predict whether a loan will
 *Logistic Regression*
 
 - Use cross validation to tune the Bayesian parameters, like prior standard deviaiton, for both models.
+- Use unique standard deviations for each coefficient.
 - Apply an imbalanced classification method to the data so the models can learn underlying trends of the default class.
