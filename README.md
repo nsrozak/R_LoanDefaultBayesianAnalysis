@@ -8,13 +8,13 @@ This project uses R and Stan to model data about loan defaults related to medica
 
 ***credit_risk_dataset.csv:*** Data file for the project.
 
-***:*** Code for hierarchical model of parameter for probability of defaulting.
+***loan_status.stan:*** Code for hierarchical model of parameter for probability of defaulting.
 
-***:*** Code for finding coefficients of logistic regression model with Hamiltonian Monte Carlo.
+***logistic_regression.stan:*** Code for finding coefficients of logistic regression model with Hamiltonian Monte Carlo.
 
-***:*** Raw Rmarkdown code.
+***BayesianDataInference.Rmd:*** Raw Rmarkdown code.
 
-***:*** Code for this project in format that is accessible by GitHub.
+***BayesianDataInference.md:*** Code for this project in format that is accessible by GitHub.
 
 ## Limitations
 
